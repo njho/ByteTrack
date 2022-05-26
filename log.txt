@@ -1,0 +1,11 @@
+usage: ByteTrack Demo! [-h] [-expn EXPERIMENT_NAME] [-n NAME] [--path PATH]
+                       [--camid CAMID] [--save_result] [-f EXP_FILE] [-c CKPT]
+                       [--device DEVICE] [--conf CONF] [--nms NMS]
+                       [--tsize TSIZE] [--fps FPS] [--fp16] [--fuse] [--trt]
+                       [--track_thresh TRACK_THRESH]
+                       [--track_buffer TRACK_BUFFER]
+                       [--match_thresh MATCH_THRESH]
+                       [--aspect_ratio_thresh ASPECT_RATIO_THRESH]
+                       [--min_box_area MIN_BOX_AREA] [--mot20]
+                       demo
+ByteTrack Demo!: error: unrecognized arguments: --fp32
